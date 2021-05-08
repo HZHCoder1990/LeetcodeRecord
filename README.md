@@ -1,2 +1,1 @@
-# LeetcodeRecord
-刷题笔记
+# 目录
